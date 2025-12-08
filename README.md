@@ -1,4 +1,6 @@
 # kpneumoniae_dashboard
 A k-pneumoniae dashboard deployment
 
-[![Binder](https://mybinder.org/v2/gh/aidanmaier/kpneumoniae_dashboard/HEAD?urlpath=%2Fvoila%2Frender%2Fdashboard_main.ipynb)]
+
+Launch here:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aidanmaier/kpneumoniae_dashboard/HEAD?urlpath=voila%2Frender%2Fdashboard_main.ipynb)
