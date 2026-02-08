@@ -1,3 +1,6 @@
+# Author: Fabrizio Smeraldi (GNU GPLv3.0)
+# https://github.com/fsmeraldi/diy-covid19dash
+
 import requests
 import time
 import pandas
