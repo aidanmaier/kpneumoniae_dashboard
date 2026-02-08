@@ -1,7 +1,7 @@
 # kpneumoniae_dashboard
 A k-pneumoniae dashboard deployment
 
-Data accessed through the UKHSA public health dashboard API (https://ukhsa-dashboard.data.gov.uk/)
+Data accessed through the UKHSA public health dashboard API (https://ukhsa-dashboard.data.gov.uk/)  
 Using Fabrizio Smeraldi's API wrapper library (https://github.com/fsmeraldi/diy-covid19dash)
 
 Launch here:
